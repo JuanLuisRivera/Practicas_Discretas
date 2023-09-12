@@ -1,0 +1,2 @@
+# Discretas
+Practicas estructuras discretas
