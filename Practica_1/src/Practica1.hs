@@ -94,8 +94,7 @@ repite [] = []
 repite (x: xs) = x: x: repite (xs)
 
 --Ejercicio 10
---elemento :: Eq a => a -> [a] -> Bool
---elemento 
+--elemento :: Eq a => a -> [a] -> Bool 
 
 --Ejercicio 11
 generaLista :: Int -> [Int]
