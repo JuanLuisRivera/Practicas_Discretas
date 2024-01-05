@@ -1,3 +1,4 @@
+Enunciados:
 1) Dada una lista de enteros, deseamos conocer cuáles son el número mayor y el número menor en dicha lista. Para ello, devuelve una tupla donde el primer elemento sea el menor y el segundo elemento sea el mayor.
 2) Dados dos enteros: un máximo y un mínimo; y una lista, devuelve la misma lista pero sin los elementos en el intervalo entre los dos enteros dados.
 3) Dada una lista de enteros, calcula el promedio de los números en la lista.
